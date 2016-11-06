@@ -1,3 +1,7 @@
+// // // // // // //// // // // // // //// // // // // // //
+// // // // // // //// LEAVE THIS FILE AS IS //// // // //
+// // // // // // //// // // // // // //// // // // // //
+
 var Promise = require('bluebird')
 var assign = require('object-assign')
 

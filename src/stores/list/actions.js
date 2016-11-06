@@ -1,8 +1,6 @@
 var AppDispatcher = require('../AppDispatcher')
 var Constants = require('../Constants')
 
-console.log(Constants.LISTITEM_CREATE)
-
 var ListActions = {
   create: function (item) {
     AppDispatcher.dispatch({

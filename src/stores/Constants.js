@@ -1,3 +1,5 @@
+// Add more constant for your new actions
+
 module.exports = {
   LISTITEM_CREATE: '__action__listitemCreate',
   LISTITEM_REMOVE: '__action__listitemRemove',
