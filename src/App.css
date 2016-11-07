@@ -18,6 +18,19 @@
   font-size: large;
 }
 
+.list {
+  padding: 20px 0;
+}
+
+.btn-link {
+    text-decoration: none;
+    padding: 0.5em;
+    display: inline-block;
+    border-radius: 3px;
+    background: #8BC34A;
+    color: #ffffff;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
